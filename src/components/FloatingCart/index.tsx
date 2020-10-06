@@ -1,8 +1,7 @@
-import React, { useState, useMemo } from 'react';
-
-import { useNavigation } from '@react-navigation/native';
+import React, { useMemo } from 'react';
 
 import FeatherIcon from 'react-native-vector-icons/Feather';
+import { useNavigation } from '@react-navigation/native';
 import {
   Container,
   CartPricing,
